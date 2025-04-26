@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Pune",
+        "author": "Rutika",
+        "content": "Pune is beautiful city",
+        "date": "2024-09-30",
+        "image": "uploads\/Screenshot 2024-02-28 000429.png",
+        "places": [
+            {
+                "name": "Dagdusheth Ganapati",
+                "image": "uploads\/Screenshot 2024-09-22 214453.png",
+                "description": "Ganapati bappa moriya"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "JW Marriott",
+                "image": "uploads\/Screenshot 2024-09-22 225356.png",
+                "description": "irhwjoisd"
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Siya",
+                "image": "uploads\/Screenshot 2024-09-22 225557.png",
+                "description": "lksfmD"
+            }
+        ]
+    },
+    {
+        "title": "Pune",
+        "author": "Rutika",
+        "content": "wqoiefu",
+        "date": "2024-10-01",
+        "image": "uploads\/Screenshot 2024-09-22 225246.png",
+        "places": [
+            {
+                "name": "Dagdusheth Ganapati",
+                "image": "uploads\/Screenshot 2024-09-22 214453.png",
+                "description": "ganapati"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "JW Marriott",
+                "image": "uploads\/Screenshot 2024-08-25 205026.png",
+                "description": "tika"
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Siya",
+                "image": "uploads\/Screenshot 2024-07-08 103112.png",
+                "description": "joker"
+            }
+        ]
+    }
+]

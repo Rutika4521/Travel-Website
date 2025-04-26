@@ -1,0 +1,330 @@
+{
+    "destinations": [
+        {
+            "id": "mumbai",
+            "name": "Mumbai, India",
+            "image": "https://media.cntraveller.in/wp-content/uploads/2018/06/Mumbai-Drone-Photo-1.jpg",
+            "places": [
+                {
+                    "name": "Gateway of India",
+                    "description": "A historical monument overlooking the Arabian Sea.",
+                    "image": "https://th.bing.com/th/id/OIP.m3UCiybiuZ_pJ-igAbZoegHaHA?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Marine Drive",
+                    "description": "A picturesque promenade along the coastline of Mumbai.",
+                    "image": "https://th.bing.com/th/id/OIP.AI8nsIJnaf2fMyLN9Z-ZGgHaEQ?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Elephanta Caves",
+                    "description": "An island with ancient rock-cut temples dedicated to Hindu deities.",
+                    "image": "https://th.bing.com/th/id/OIP.72E39ts_mfIAOWMkqogqigAAAA?rs=1&pid=ImgDetMain"
+                }
+            ],
+            "hotels": [
+                {
+                    "name": "Taj Mahal Palace",
+                    "description": "Luxury hotel located near the Gateway of India.",
+                    "image": "https://video-images.vice.com/_uncategorized/1539694286858-Taj-Mumbai-If-These-Walls-Could-Talk-7-of-12.jpeg"
+                },
+                {
+                    "name": "The Oberoi",
+                    "description": "An elegant hotel offering luxurious amenities.",
+                    "image": "https://assets.architecturaldigest.in/photos/60083e11a8f8397741704404/16:9/w_1280,c_limit/The-Oberoi-Mumbai-feature-image-1366x768.jpg"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Leopold Cafe",
+                    "description": "Famous cafe with a rich history.",
+                    "image": "https://th.bing.com/th/id/OIP._cGeyqtW_EHlRiws0rKuuAHaEx?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "The Table",
+                    "description": "A trendy restaurant known for its international cuisine.",
+                    "image": "https://th.bing.com/th/id/OIP.7NqhxlQnJgSaweDJBsCmNwHaJ3?rs=1&pid=ImgDetMain"
+                }
+            ]
+        },
+        {
+            "id": "new_york",
+            "name": "New York, USA",
+            "image": "https://th.bing.com/th/id/OIP.aeYKIyxMVxyC9vmXsOd1GAHaE7?rs=1&pid=ImgDetMain",
+            "places": [
+                {
+                    "name": "Statue of Liberty",
+                    "description": "An iconic symbol of freedom in the United States.",
+                    "image": "https://www.worldofwanderlust.com/wp-content/uploads/2015/07/statue-of-liberty-_1_.jpg"
+                },
+                {
+                    "name": "Central Park",
+                    "description": "A vast green space offering numerous recreational activities.",
+                    "image": "https://th.bing.com/th/id/OIP.X43U7xh5t1_8I1AJ6nCOAwHaEK?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Empire State Building",
+                    "description": "A towering skyscraper with an observation deck offering panoramic views.",
+                    "image": "https://th.bing.com/th/id/OIP.6xx4cKoHJhKt5toQZj7rDAHaK9?rs=1&pid=ImgDetMain"
+                }
+            ],
+            "hotels": [
+                {
+                    "name": "The Plaza Hotel",
+                    "description": "A luxury hotel in Midtown Manhattan.",
+                    "image": "https://th.bing.com/th/id/OIP.cs1pcG-9PjByU2-YG4MXPwHaE7?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "The Langham",
+                    "description": "An upscale hotel offering elegant accommodations.",
+                    "image": "https://th.bing.com/th/id/R.a3430f1e145a4f2a2a71f615e5519356?rik=tpvp8Wl0ThRVcg&riu=http%3a%2f%2fwww.travellermade.com%2fwp-content%2fuploads%2f2012%2f07%2fTheLangham1.jpg&ehk=98IzPosN1y0WBzswh1P%2fPxoBfIS6lH3Bp%2bFseM8BN0w%3d&risl=&pid=ImgRaw&r=0"
+                },
+                {
+                    "name": "The Ritz-Carlton",
+                    "description": "Luxurious hotel in Midtown Manhattan.",
+                    "image": "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1105580.jpg"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Katz's Delicatessen",
+                    "description": "Famous for its pastrami sandwiches.",
+                    "image": "https://media.timeout.com/images/101419569/image.jpg"
+                },
+                {
+                    "name": "Le Bernardin",
+                    "description": "A Michelin-starred restaurant specializing in seafood.",
+                    "image": "https://estilosdevida.bolsamania.com/wp-content/uploads/2017/03/le-bernardin-edit.jpg"
+                },
+                {
+                    "name": "Momofuku Noodle Bar",
+                    "description": "Known for its innovative Asian cuisine.",
+                    "image": "https://assets3.thrillist.com/v1/image/1676149/size/tmg-facebook_social.jpg"
+                }
+            ]
+        },
+        {
+            "id": "paris",
+            "name": "Paris, France",
+            "image": "https://wallpaperaccess.com/full/1192224.jpg",
+            "places": [
+                {
+                    "name": "Eiffel Tower",
+                    "description": "Iconic Parisian landmark.",
+                    "image": "https://th.bing.com/th/id/OIP.nwYz6TBRb2_0cFlSaPWLJwHaNS?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Louvre Museum",
+                    "description": "World's largest art museum.",
+                    "image": "https://bing.com/th?id=OPAN.66FC57AF8C3DC7076DBF93116CF73CE6&w=256&h=256&c=1&o=3"
+                },
+                {
+                    "name": "Notre-Dame Cathedral",
+                    "description": "A medieval Catholic cathedral with stunning Gothic architecture.",
+                    "image": "https://th.bing.com/th/id/R.a1fcacf500645ee9c4ee706d435a7899?rik=PXpkjN8mueQn5A&riu=http%3a%2f%2fwww.youramazingplaces.com%2fwp-content%2fuploads%2f2014%2f11%2fParis-Notre-Dame-1.jpg&ehk=mDVK4RYvtMfhE4dGIJM9XckCyuF6Ulsz6JAdROe7fiI%3d&risl=&pid=ImgRaw&r=0"
+                }
+            ],
+            "hotels": [
+                {
+                    "name": "Le Meurice",
+                    "description": "A luxury hotel located near the Louvre Museum.",
+                    "image": "https://th.bing.com/th/id/R.4d2f8e8e2a9dfa98a1fa30f895fefb2e?rik=wbHfeJBgPZ5Tmg&riu=http%3a%2f%2fnew.baroquelifestyle.com%2fwp-content%2fuploads%2f2018%2f04%2fg-louis2-restaurant-la-tremoille-exterior-72.jpg&ehk=w6YaUCszpU5wXnU%2bOgv2sShOD9sorhpFF77cQq9dUbI%3d&risl=&pid=ImgRaw&r=0"
+                },
+                {
+                    "name": "Shangri-La Hotel",
+                    "description": "A luxury hotel offering spectacular views of the Eiffel Tower.",
+                    "image": "https://th.bing.com/th/id/OIP.YZiATPp-Mc2InRFRN3LuPgHaFj?rs=1&pid=ImgDetMain"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Le Cinq",
+                    "description": "A Michelin-starred restaurant in the Four Seasons Hotel.",
+                    "image": "https://th.bing.com/th/id/OIP.T_RavWf_bb0uXqB84EOh7gHaE1?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "L'Astrance",
+                    "description": "Known for its innovative and seasonal French cuisine.",
+                    "image": "https://th.bing.com/th/id/OIP.0d9g1iSfaOeFFGms-53FjAHaE7?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Pierre Gagnaire",
+                    "description": "A renowned restaurant with inventive French dishes.",
+                    "image": "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/16fe82b0048f4883b060e3e970e467ae?width=1000"
+                },
+                {
+                    "name": "Le Jules Verne",
+                    "description": "Michelin-starred restaurant in the Eiffel Tower.",
+                    "image": "https://th.bing.com/th/id/OIP.adPqoWb8l2JkxXqMSGIYlQHaEM?rs=1&pid=ImgDetMain"
+                }
+            ]
+        },
+        {
+            "id": "tokyo",
+            "name": "Tokyo, Japan",
+            "image": "https://wallup.net/wp-content/uploads/2019/09/836418-tokyo-shinjuku-cityscape-night-urban-architecture.jpg",
+            "places": [
+                {
+                    "name": "Tokyo Tower",
+                    "description": "A communications and observation tower in the Shiba-koen district.",
+                    "image": "https://th.bing.com/th/id/OIP.YgZ1Jjf2b9iZRBLUOdGZuQHaKi?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Shibuya Crossing",
+                    "description": "The famous bustling intersection in Shibuya.",
+                    "image": "https://th.bing.com/th/id/OIP.itT8Ejq3ogsBrXnSR9AD5wHaFj?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Senso-ji Temple",
+                    "description": "Tokyo's oldest temple located in Asakusa.",
+                    "image": "https://th.bing.com/th/id/OIP.J5tGAbC_A1d8-gnJ9ehvJQHaE8?rs=1&pid=ImgDetMain"
+
+                }
+            ],
+            "hotels": [
+                {
+                    "name": "Park Hyatt Tokyo",
+                    "description": "A luxury hotel offering panoramic views of Tokyo.",
+                    "image": "https://c8.alamy.com/comp/EEPADM/park-hyatt-tokyo-hotel-shinjuku-tokyo-japan-EEPADM.jpg"
+                },
+                {
+                    "name": "Andaz Tokyo",
+                    "description": "A modern luxury hotel with sleek design and excellent amenities.",
+                    "image": "https://media.cntraveler.com/photos/5c9b977820c9d49e753a2abd/master/w_1200,c_limit/Andaz-Tokyo-Lobby-highres.jpg"
+                },
+                {
+                    "name": "The Peninsula Tokyo",
+                    "description": "Luxurious hotel in Marunouchi.",
+                    "image": "https://th.bing.com/th/id/OIP.1KB_AijEn1OUnZFWvdS8HAHaEK?rs=1&pid=ImgDetMain"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Sukiyabashi Jiro",
+                    "description": "A famous sushi restaurant with three Michelin stars.",
+                    "image": "https://www.theworlds50best.com/discovery/filestore/jpg/SukiyabashiJiro-Tokyo-Japan-03.jpg"
+                },
+                {
+                    "name": "Narisawa",
+                    "description": "Known for its innovative Japanese cuisine.",
+                    "image": "https://2.bp.blogspot.com/-b8mT-Nk-kKo/UpM6dWTz1nI/AAAAAAAAy24/a262Fl4TXko/s1600/Narisawa-3.jpg"
+                },
+                {
+                    "name": "Kyubey",
+                    "description": "Renowned for its traditional sushi experience.",
+                    "image": "https://theworldkeys.com/wp-content/uploads/2022/10/Kyubey-Restaurant-Tokyo_theworldkeys_6-1024x781.webp"
+                }
+            ]
+        },
+        {
+            "id": "london",
+            "name": "London, UK",
+            "image": "https://wallpaperaccess.com/full/180203.jpg",
+            "places": [
+                {
+                    "name": "Big Ben",
+                    "description": "The Great Bell of the clock at the Palace of Westminster.",
+                    "image": "https://th.bing.com/th/id/OIP.dBfyKbetUl2CDYTGtkgU-wHaKy?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Buckingham Palace",
+                    "description": "The official residence of the British monarch.",
+                    "image": "https://th.bing.com/th/id/OIP.bpSEmKUShwzk-SePqczLnwHaFj?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "British Museum",
+                    "description": "A museum dedicated to human history, art, and culture.",
+                    "image": "https://th.bing.com/th/id/OIP.zmB1GZNpLzd1pRMyoniH_wHaHR?rs=1&pid=ImgDetMain"
+                }
+            ],
+            "hotels": [
+                {
+                    "name": "The Ritz London",
+                    "description": "A world-famous luxury hotel in Piccadilly.",
+                    "image": "https://cdn.kiwicollection.com/media/property/PR003267/xl/003267-06-exterior-view-evening-street.jpg"
+                },
+                {
+                    "name": "The Dorchester",
+                    "description": "An iconic hotel offering opulent accommodations.",
+                    "image": "https://c8.alamy.com/comp/CMY7N6/the-dorchester-hotel-park-lane-london-with-christmas-decorations-at-CMY7N6.jpg"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "The Ledbury",
+                    "description": "A Michelin-starred restaurant in Notting Hill.",
+                    "image": "https://th.bing.com/th/id/OIP.vsJtaxyunUji452pRE5M_wHaEo?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Sketch",
+                    "description": "Known for its unique and artistic dining experience.",
+                    "image": "https://th.bing.com/th/id/OIP._iZdPWafcw2L5Mt9CnSNrAHaE7?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Restaurant Gordon Ramsay",
+                    "description": "A three Michelin-starred restaurant by the famous chef.",
+                    "image": "https://th.bing.com/th/id/OIP.dSyqgfuSSqVvHsx4BiwiowHaEK?rs=1&pid=ImgDetMain"
+                }
+            ]
+        },
+        {
+            "name": "Barcelona, Spain",
+            "image": "https://www.tripsavvy.com/thmb/8VKOZbYhKRecUgdgmwfKsFlw2f8=/4208x2366/filters:fill(auto,1)/spain--barcelona--panoramic-view-of-barcelona-cathedral-735895859-599aedf7685fbe0010120fc1.jpg",
+            "places": [
+                {
+                    "name": "Sagrada Família",
+                    "description": "Famous basilica designed by Antoni Gaudí.",
+                    "image": "https://th.bing.com/th/id/OIP.NILAqBoIIz6U9gvEeYEhCgHaH9?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Park Güell",
+                    "description": "Public park with colorful mosaics and architecture.",
+                    "image": "https://th.bing.com/th/id/OIP.IlNUfn47AGXJ4ob7OV9GZQHaE8?rs=1&pid=ImgDetMain"
+                }
+            ],
+            "hotels": [
+                {
+                    "name": "Mandarin Oriental Barcelona",
+                    "description": "Luxurious hotel in the center of Barcelona.",
+                    "image": "https://th.bing.com/th/id/OIP.arykpWpx41o5iy63d8CEMwHaEj?rs=1&pid=ImgDetMain"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "El Celler de Can Roca",
+                    "description": "Renowned restaurant known for its innovative cuisine.",
+                    "image": "https://th.bing.com/th/id/OIP.c5PIPWB_hoLvTdKvPzr9nwHaET?rs=1&pid=ImgDetMain"
+                }
+            ]
+        },
+        {
+            "name": "Sydney, Australia",
+            "image": "https://i.pinimg.com/originals/0b/54/57/0b5457a50f154d3490e7338ea4c0dcac.jpg",
+            "places": [
+                {
+                    "name": "Sydney Opera House",
+                    "description": "Iconic performing arts venue.",
+                    "image": "https://th.bing.com/th/id/OIP.UuYSWaDvM32tG3BTMMwQGQHaEK?rs=1&pid=ImgDetMain"
+                },
+                {
+                    "name": "Sydney Harbour Bridge",
+                    "description": "Famous bridge with a scenic walk.",
+                    "image": "https://th.bing.com/th/id/OIP.PjiyNZJhUFWh6GxG4-zQVgHaE8?rs=1&pid=ImgDetMain"
+                }
+            ],
+            "hotels": [
+                {
+                    "name": "Park Hyatt Sydney",
+                    "description": "Luxurious hotel with views of the Sydney Opera House.",
+                    "image": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2017/08/02/1655/Park-Hyatt-Sydney-P115-Exterior-Vertical.jpg/Park-Hyatt-Sydney-P115-Exterior-Vertical.16x9.jpg?imwidth=1920"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "Quay",
+                    "description": "High-end restaurant with views of the Sydney Opera House.",
+                    "image": "https://th.bing.com/th/id/OIP.b1sr5BsqefQcnHprIVh1yQHaFP?rs=1&pid=ImgDetMain"
+                }
+            ]
+        }
+    ]
+}

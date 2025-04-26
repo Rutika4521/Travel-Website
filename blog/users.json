@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "54321"
+        },
+        {
+            "username": "user",
+            "password": "12345"
+        }
+    ],
+    "username": "$2y$10$n0AySQh8nOlx1hrZSgPBl.ZMGcVhVp03W8TF0IyPrL0EYacr56Tea",
+    "user": "$2y$10$.piBRo2JCfAqqVTUqyZhleckntRzNZXmGHlujSsxX20RJCjTbNkeG",
+    "rutika": "$2y$10$UVEYR5F96ponYodx6G8fRuG4UgZ\/0bixdsRr71tounPT9dqilYIyG",
+    "Rut": "$2y$10$gpNA1WKUThXnzZMZ133LbuhrH1z4\/enlyg68XWa9RAZS7MtacXbTm",
+    "Rutika": "$2y$10$bz.2VnLD7eUPwQ3FLOxjl.GbkpDiKhVakMw2\/ciw0rMMgdYZNaUgS"
+}

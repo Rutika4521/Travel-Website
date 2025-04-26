@@ -1,0 +1,159 @@
+.body {
+    /* background-image: url(https://th.bing.com/th/id/OIP.arxNiXwtJP1bAK9LHQGXaQHaEK?rs=1&pid=ImgDetMain); */
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    height: 70px;
+}
+
+.hero {
+    /* background-image: url('https://th.bing.com/th/id/R.1c1b8c8219385a0f88a7b6cfcba712ab?rik=u9ceuWoncAl0iQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fFree-Desktop-Travel-Backgrounds.jpg&ehk=i2gnQlVtAUHLdjoM%2b5hVl%2bStT4ogWTYySuRp0cXXPnc%3d&risl=&pid=ImgRaw&r=0'); */
+    background-color: bisque;
+    background-size: cover;
+    background-position: center;
+    color: rgb(14, 12, 12);
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 5px solid #aabdd2;
+    margin: 0;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin: 0;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.25rem;
+}
+
+.card {
+    transition: transform 0.2s;
+    border: none;
+    border-radius: 10px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#destination-details {
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* #destination-details description{
+    font-size: xx-large;
+} */
+
+#destination-details img {
+    width: 100%;
+    height: max-content 500px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 1rem;    
+}
+
+footer {
+    background-color: #007bff;
+    color: white;
+}
+
+#destination-list {
+    display: flex;
+    gap: 15px;
+}
+.hero form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.container {
+    padding: 2rem;
+    color: black;
+}
+
+
+.jquery-demo {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#jquery-title {
+    color: #444;
+    margin-bottom: 20px;
+}
+
+#jquery-action-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#jquery-action-btn:hover {
+    background-color: #0056b3;
+}
+
+#jquery-content {
+    margin-top: 20px;
+}
+
+.jquery-box {
+    width: 100px;
+    height: 100px;
+    background-color: #007bff;
+    margin: 20px auto;
+    position: relative;
+}
+.carousel-control-prev {
+    position: absolute;
+    top: 3cm;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    width: 15%;
+    height: 5cm;
+    color: rgb(255, 255, 255);
+    
+}
+.carousel-control-next{
+    position: absolute;
+    top: 3cm;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    height: 5cm;
+    color: rgb(255, 255, 255);
+    
+}
